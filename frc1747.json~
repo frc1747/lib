@@ -1,0 +1,18 @@
+{
+    "fileName": "frc1747.json",
+    "name": "FRC1747_gambezi",
+    "version": "0.0.1",
+    "mavenUrls": [
+	"https://github.com/frc1747/lib/raw/repository/"
+    ],
+    "jsonUrl": "https://github.com/frc1747/lib/raw/repository/frc1747.json",
+    "javaDependencies": [
+	{
+	    "groupId": "com.frc1747.gambezi",
+	    "artifactId": "gambezi",
+	    "version": "0.0.1",
+	}
+    ],
+    "jniDepdencies": [],
+    "cppDepdencies": []
+}
