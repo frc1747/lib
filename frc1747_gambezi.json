@@ -5,7 +5,7 @@
     "mavenUrls": [
 	"https://github.com/frc1747/lib/raw/repository/"
     ],
-    "jsonUrl": "https://github.com/frc1747/lib/raw/repository/frc1747.json",
+    "jsonUrl": "https://github.com/frc1747/lib/raw/repository/frc1747_gambezi.json",
     "javaDependencies": [
 	{
 	    "groupId": "com.frc1747.gambezi",
